@@ -69,7 +69,7 @@ h2{
     position: relative;
 }
 .set_quantity::after{
-    content: "(note 1 peice)";
+   
     width: auto;
     height: auto;
     text-align: center;
